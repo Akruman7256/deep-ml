@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,7 +14,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-26 | [solution](problems/0016-feature-scaling-implementation) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-11 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-08-01 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-11 | [solution](problems/0003-reshape-matrix) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-08-03 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-08-08 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-24 | [solution](problems/0309-product-rule-for-derivatives) |
