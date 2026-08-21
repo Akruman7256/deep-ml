@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:45:15.683Z",
+  "generated_at": "2026-11-23T17:45:19.231Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -169,6 +169,32 @@
       "last_pushed_at": "2026-08-18T09:25:26.048Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:839": {
+      "kind": "problem",
+      "id": "839",
+      "title": "Cross-Validated Prediction with K-Fold Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/839",
+      "path": "problems/0839-cross-validated-prediction-with-k-fold-linear-regression",
+      "first_solved_at": "2026-08-21T12:24:48.152Z",
+      "last_pushed_at": "2026-08-21T12:24:48.152Z",
+      "language": "python",
+      "lines": 62
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-08-21T12:48:35.370Z",
+      "last_pushed_at": "2026-08-21T12:48:35.370Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
