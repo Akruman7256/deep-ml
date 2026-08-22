@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-08-22 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-26 | [solution](problems/0016-feature-scaling-implementation) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-16 | [solution](problems/0015-linear-regression-using-gradient-descent) |
