@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:45:23.001Z",
+  "generated_at": "2026-11-23T17:45:26.310Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -208,6 +208,45 @@
       "last_pushed_at": "2026-08-22T10:43:34.730Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:885": {
+      "kind": "problem",
+      "id": "885",
+      "title": "Build a Linear Regression Model with nn.Module",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/885",
+      "path": "problems/0885-build-a-linear-regression-model-with-nn-module",
+      "first_solved_at": "2026-08-24T09:40:30.493Z",
+      "last_pushed_at": "2026-08-24T09:40:30.493Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:899": {
+      "kind": "problem",
+      "id": "899",
+      "title": "Build a Dataset and Use It with a DataLoader",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/899",
+      "path": "problems/0899-build-a-dataset-and-use-it-with-a-dataloader",
+      "first_solved_at": "2026-08-24T09:50:20.643Z",
+      "last_pushed_at": "2026-08-24T09:50:20.643Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-08-24T10:11:09.006Z",
+      "last_pushed_at": "2026-08-24T10:11:09.006Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
