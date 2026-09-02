@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:45:35.523Z",
+  "generated_at": "2026-11-23T17:45:38.099Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -286,6 +286,32 @@
       "last_pushed_at": "2026-08-30T06:12:26.621Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:140": {
+      "kind": "problem",
+      "id": "140",
+      "title": "Bernoulli Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/140",
+      "path": "problems/0140-bernoulli-naive-bayes-classifier",
+      "first_solved_at": "2026-09-02T10:48:16.886Z",
+      "last_pushed_at": "2026-09-02T10:48:16.886Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-09-02T11:58:02.951Z",
+      "last_pushed_at": "2026-09-02T11:58:02.951Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
