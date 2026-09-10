@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**27** solved · 27 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-17 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-08-25 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-26 | [solution](problems/0017-k-means-clustering) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-10 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-24 | [solution](problems/0309-product-rule-for-derivatives) |
 
 ---
