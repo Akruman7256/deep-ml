@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-09-04 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-08-24 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-08-24 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-09-18 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-07 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-08-30 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-09-17 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
@@ -22,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-26 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-09-02 | [solution](problems/0283-implement-hinge-loss-for-svm) |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-18 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-16 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-08-16 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-11 | [solution](problems/0001-matrix-vector-dot-product) |
